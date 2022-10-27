@@ -1,0 +1,24 @@
+{
+  "name": "paint_it_red",
+  "version": "1.0.0",
+  "description": "this will color your text in red",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amit-nadcab/npm_pack.git"
+  },
+  "keywords": [
+    "color",
+    "string",
+    "text"
+  ],
+  "author": "amit yadav",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amit-nadcab/npm_pack/issues"
+  },
+  "homepage": "https://github.com/amit-nadcab/npm_pack#readme"
+}
